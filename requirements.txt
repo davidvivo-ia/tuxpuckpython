@@ -1,0 +1,4 @@
+# TuxPuck Python - dependencias
+pygame-ce>=2.5
+# opcional: acelera la generacion de audio al arrancar
+numpy>=1.24
